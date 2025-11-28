@@ -75,7 +75,7 @@
     "start_date": "2024-04-01",
     "end_date": "2024-05-01",
     "is_current": false,
-    "description": "Mengembangkan aplikasi CRUD sederhana sebagai latihan fullstack. Membangun frontend interaktif dengan React dan mengintegrasikan API backend berbasis Python/Flask serta database MySQL. Berfokus pada alur autentikasi, validasi input, dan pemahaman dasar arsitektur fullstack.",
+    "description": "Berkontribusi dalam pembuatan aplikasi game sederhana. Membangun frontend interaktif",
     "technologies": ["Java", "Greenfoot", "JavaScript"],
     "image_url": "/greenfoot.png"
   },
