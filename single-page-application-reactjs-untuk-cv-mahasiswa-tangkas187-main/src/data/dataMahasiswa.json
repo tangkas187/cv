@@ -102,6 +102,18 @@
   "description": "Mengembangkan aplikasi pembelajaran dan pengenalan huruf BISINDO menggunakan model CNN. Membangun pipeline pelatihan model, pengelolaan dataset gambar, serta backend Python untuk melakukan prediksi gesture tangan secara real-time. Project ini masih berjalan dan difokuskan pada peningkatan akurasi model serta integrasi antarmuka pengguna.",
   "technologies": ["Python", "TensorFlow", "CNN", "ReactJS", "OpenCV"],
   "image_url": "/ini.jpg"
+  },
+  {
+    "id": 205,
+    "title": "Debater",
+    "organization": "MEDS",
+    "experience_type": "Competition",
+    "start_date": "2025-02-01",
+    "end_date": "2025-10-21",
+    "is_current": false,
+    "description": "Mengikuti kompetisi debat mahasiswa berbahasa indonesia dan bahasa inggris untuk melatih chritical thinking dan public speaking",
+    "technologies": ["-"],
+    "image_url": "/fotoku.jpg"
   }
 
 ]
