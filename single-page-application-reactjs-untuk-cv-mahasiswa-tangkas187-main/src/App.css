@@ -1,0 +1,32 @@
+.hover-card {
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  cursor: default;
+}
+
+.hover-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1) !important;
+  border-color: rgba(13, 110, 253, 0.2) !important;
+}
+
+.hover-img {
+  transition: transform 0.5s ease;
+  cursor: pointer;
+}
+
+.hover-img:hover {
+  transform: scale(1.1) rotate(2deg);
+}
+
+.hover-btn {
+  transition: all 0.3s ease;
+}
+
+.hover-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
+}
+
+.profile-img-container {
+  background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);
+}

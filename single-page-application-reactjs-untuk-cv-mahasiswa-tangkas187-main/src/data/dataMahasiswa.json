@@ -1,0 +1,109 @@
+{
+  "id": 12,
+  "slug": "tangkas-187",
+
+  "profile": {
+    "full_name": "Tangkas Wahyu Nugroho",
+    "nim": "L200230187",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "photo_url": "/fotoku.jpg",
+    "headline": "Fullstack Web Developer | Data Analyst Enthusiast",
+    "short_bio": "Seorang mahasiswa Informatika UMS biasa biasa saja yang tertarik pada Web Development, Database, dan GameDev.",
+    "location": "Surakarta, Jawa Tengah",
+    "portfolio_url": "https://potofoliotingkizz.vercel.app/"
+  },
+
+  "skills": [
+  {
+    "id": 1,
+    "name": "MySQL",
+    "category": "technical",
+    "level": "beginner",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "category": "technical",
+    "level": "beginner",
+    "is_main": true,
+    "years_of_experience": 1.5,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  },
+  {
+    "id": 3,
+    "name": "ReactJS",
+    "category": "technical",
+    "level": "beginner",
+    "is_main": false,
+    "years_of_experience": 0.5,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  },
+  {
+    "id": 4,
+    "name": "Java",
+    "category": "technical",
+    "level": "beginner",
+    "is_main": false,
+    "years_of_experience": 0.5,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  }
+],
+
+
+  "experiences": [
+  {
+    "id": 201,
+    "title": "Fullstack Developer – Portfolio Website",
+    "organization": "Personal Project",
+    "experience_type": "project",
+    "start_date": "2024-06-01",
+    "end_date": "2024-07-01",
+    "is_current": false,
+    "description": "Membangun website portfolio modern menggunakan ReactJS dan Tailwind CSS sebagai platform personal branding. Fokus pada pembuatan komponen reusable, layout responsif, dan optimasi UI agar tampil bersih dan konsisten di berbagai perangkat.",
+    "technologies": ["Html", "CSS", "JavaScript"],
+    "image_url": "/porto.png"
+  },
+  {
+    "id": 202,
+    "title": "Frontend – Greenfoot Game App",
+    "organization": "Personal Learning Group Project",
+    "experience_type": "project",
+    "start_date": "2024-04-01",
+    "end_date": "2024-05-01",
+    "is_current": false,
+    "description": "Mengembangkan aplikasi CRUD sederhana sebagai latihan fullstack. Membangun frontend interaktif dengan React dan mengintegrasikan API backend berbasis Python/Flask serta database MySQL. Berfokus pada alur autentikasi, validasi input, dan pemahaman dasar arsitektur fullstack.",
+    "technologies": ["Java", "Greenfoot", "JavaScript"],
+    "image_url": "/greenfoot.png"
+  },
+  {
+    "id": 203,
+    "title": "UI/UX Mini Projects",
+    "organization": "Self Practice",
+    "experience_type": "project",
+    "start_date": "2024-02-01",
+    "end_date": "2024-03-01",
+    "is_current": false,
+    "description": "Mengerjakan beberapa mini-project UI/UX untuk memahami dasar layouting, konsistensi desain, dan pengalaman pengguna. Melatih kemampuan membuat interface yang rapi, mudah dipahami, dan memiliki hierarchy visual yang jelas.",
+    "technologies": ["Figma"],
+    "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+  },
+  {
+  "id": 204,
+  "title": "Project Manager Signtara Bisindo – Sistem Penerjemah Bahasa Isyarat",
+  "organization": "Personal Research Project",
+  "experience_type": "project",
+  "start_date": "2025-10-24",
+  "end_date": null,
+  "is_current": true,
+  "description": "Mengembangkan aplikasi pembelajaran dan pengenalan huruf BISINDO menggunakan model CNN. Membangun pipeline pelatihan model, pengelolaan dataset gambar, serta backend Python untuk melakukan prediksi gesture tangan secara real-time. Project ini masih berjalan dan difokuskan pada peningkatan akurasi model serta integrasi antarmuka pengguna.",
+  "technologies": ["Python", "TensorFlow", "CNN", "ReactJS", "OpenCV"],
+  "image_url": "/ini.jpg"
+  }
+
+]
+
+}
